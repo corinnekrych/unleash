@@ -1,5 +1,5 @@
 {
-  "name": "f8-unleash-server",
+  "name": "unleash-server",
   "description": "Unleash is an enterprise ready feature toggles service. It provides different strategies for handling feature toggles.",
   "version": "3.0.1",
   "keywords": [
